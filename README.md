@@ -11,4 +11,4 @@ use the above command on the client side to run client
 use the above command on the server side to run server
 
 
-<h3>You can view thw website here: https://nithin-stackoverflow-clone.netlify.app/</h3>
+<h3>You can view the website here: https://nithin-stackoverflow-clone.netlify.app/</h3>
